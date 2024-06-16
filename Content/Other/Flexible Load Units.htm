@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/TableStyles/Basic-one.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>Flexible Load Units</h1>
+        <p>In exceptional transports the vast majority of goods fit within the loading length of an individual wagon. Goods longer than the maximum loading length stretched across multiple wagons  can also be transported by rail, certain restrictions apply. Restrictions for long goods exceeding wagon loading length vary depending on the flexibility of the load.</p>
+        <h2>Definition</h2>
+        <p><b>Flexible load units</b> that are <b>loaded on more than two wagons</b> are transported as exceptional consignments.<br /></p>
+        <h2>Use Cases</h2>
+        <p>Flexible units like:</p>
+        <ul>
+            <li>  Rails longer than 36 m.</li>
+            <li>Steel rods for concrete.</li>
+            <li>Plastic pipes.</li>
+            <li>Other loads that can safely move in curves with a minimum radius R of 75 m.</li>
+        </ul>
+        <p>when loaded on sets of several wagons with collapsible end boards or stanchions, they are to be transported as exceptional consignments. On some of the networks, the load units loaded on more than two wagons are considered exceptional consignments, even when they are forwarded in block trains. Contact your <a href="../EC Introduction/EC Participants.htm" title="See role's tasks" alt="See role's tasks">transport manager</a> to determine whether authorisation is required for the shipment route in question.</p>
+        <p>On certain railways <MadCap:xref href="Other National Rules.htm" target="_blank" title="Alternative national guidelines" alt="LAlternative national guidelines">Other – National Rules</MadCap:xref> apply for such transports, in line with the provisions of the UIC&#160;Loading Guidelines.</p>
+        <h2>Long Rails </h2>
+        <p>Steel is more flexible than one may think at  first glance. The longer the rails, the longer wagon sets  needed to transport them. For example, for rails 120 m in lenght it might take from 6 to 9 wagons to compose a wagon set. Rails are transported in layers on the flat wagon sets. Rail layers are supported by fixing blocks and supportive frames. Fixing long rails in supportive frames, neither too loosely nor too firmly, allows rails to simultaneously shift on curves to accommodate for tight curves such as with a radius of 150 m.</p>
+        <p>See how rails in layers behave on S curve at the siding of Voelstapine AG.</p>
+        <p>
+            <img src="../Resources/Images/Assets/Photos/im_web_c-regine-schoettl-6480_S-curve.jpg" title="Source: Corporate Blog Voelstapine AG - C: Regine Schoetl 6480 (jpg)" alt="Long rails on S-bend curve at siding of Volestapine AG - C: Regine Schoetl 6480 (jpg)" style="mc-thumbnail: hover;mc-thumbnail-max-height: 200px;" />
+        </p>
+        <p>In the case of flexible goods that cover the coupling zone, longitudinal play must be taken into account. The transport units must be coupled in such a way that the buffers are in slight contact. This is important in order to maintain an even load on the wheel sets of the individual wagons throughout the set. If there are significant variations in the height of buffers, it could lead to the infrastructure manager’s (IM) rolling stock detection and monitoring systems registering false axle overload conditions. This might be detected in certain wagons that are carrying long, flexible loads within the set. It is virtually impossible to correct the way the rails are loaded on a wagon set during transport, and therefore wagon sets with mixed -height buffers should be actively avoided.</p>
+        <h2>Consignment Application</h2>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;mc-table-style: url('../Resources/TableStyles/Basic-one.css');" class="TableStyle-Basic-one" cellspacing="2">
+            <col style="width: 84px;" class="TableStyle-Basic-one-Column-Column3" MadCap:pattern="7" />
+            <col class="TableStyle-Basic-one-Column-Column4" MadCap:pattern="8" />
+            <thead>
+                <tr class="TableStyle-Basic-one-Head-Header1">
+                    <th class="TableStyle-Basic-one-HeadE-Column3-Header1">
+                        <p class="table-text">Code</p>
+                    </th>
+                    <th class="TableStyle-Basic-one-HeadD-Column4-Header1">
+                        <p class="table-text">Declare in application</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-one-Body-Body1" style="height: 31px;">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#1a</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Type and total length of the shipment in meters.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#5</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>All axles for the wagon set.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#6a</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Summed up length of the wagon set.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#7</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Tare weight of single wagon.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#8</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>The total mass of the load on the wagon set /progressive, variants possible.<br />Alternative – the total mass of the load on a single wagon.<br />Observe conformity with the track class of the route.<br /></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#11</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>The total length of the load on the wagon set.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#12–15</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Loading gauge not exceeded.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">#24</td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Reduced speed for the wagon set.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyB-Column3-Body1">#29</td>
+                    <td class="TableStyle-Basic-one-BodyA-Column4-Body1">
+                        <p>These consignments may not be subject to hump or fly shunting, nor may they collide with other vehicles that have been fly or hump shunted.
+<br />Trains including these transport units may not be pushed.
+<br />Wagon sets must not be separated.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

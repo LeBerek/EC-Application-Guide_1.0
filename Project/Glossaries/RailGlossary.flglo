@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term0"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Abbreviations">
+    <Terms>
+      <Term>SMS</Term>
+    </Terms>
+    <Definition
+      Link="">Safety Management System</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term1"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>RINF</Term>
+    </Terms>
+    <Definition
+      Link="">Register of Infrastructure</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term2"
+    Stem=""
+    SortAs="Definitions"
+    IgnoreCase="false">
+    <Terms>
+      <Term>European Vehicle Number (EVN)</Term>
+    </Terms>
+    <Definition
+      Link="">The unique number consists of 12-digits which identify technical characteristics of the railway vehicle. EVNs are managed in the European Vehicle Register (EVR).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term3"
+    Stem=""
+    SortAs="Definitions"
+    IgnoreCase="false">
+    <Terms>
+      <Term>European Vehicle Number (EVN) Status</Term>
+    </Terms>
+    <Definition
+      Link="">Reserved Status:
+The status is assigned during the testing phase of a vehicle.The number is allocated but not yet officially assigned to the vehicle. The number may be already marked on the vehicle. The number remains in a reserved state until the vehicle is ready for market introduction.
+Active Status:
+When a vehicle is ready to be introduced to the market, the reserved EVN becomes active. It signifies that the vehicle is officially registered and operational.
+Deleted Status:
+The status indicates that the EVN is no longer valid. The reason for EVN deletion can be for any reason, for example the vehicle is no longer in service or if the registration needs to be revoked.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Definitions"
+    glossTerm="RailGlossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Route compatibility check</Term>
+    </Terms>
+    <Definition
+      Link="">As described in Appendix D1 of TSI OPE (Commission Implementing Regulation (EU) 2019/773).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term5"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>ERATV</Term>
+    </Terms>
+    <Definition
+      Link="">European Register of Authorised Types of Vehicle</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term6"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Abbreviations">
+    <Terms>
+      <Term>RU</Term>
+    </Terms>
+    <Definition
+      Link="">Railway Undertaking</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term7"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Abbreviations">
+    <Terms>
+      <Term>IM</Term>
+    </Terms>
+    <Definition
+      Link="">Infrastructure Manager</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term8"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>EU</Term>
+    </Terms>
+    <Definition
+      Link="">European Union</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term9"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>EVR</Term>
+    </Terms>
+    <Definition
+      Link="">European Vehicle Register</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term10"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>CT</Term>
+    </Terms>
+    <Definition
+      Link="">Combined Transport</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term11"
+    Stem=""
+    SortAs="Definitions"
+    IgnoreCase="false">
+    <Terms>
+      <Term>IRS</Term>
+    </Terms>
+    <Definition
+      Link="">International Railways Solution - UIC document drawn up by consesnsus and applied on voluntary basis with aim to  facilitate and harmonsie railway operations.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term12"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>G1</Term>
+    </Terms>
+    <Definition
+      Link="">Gauge G1</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term13"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>G2</Term>
+    </Terms>
+    <Definition
+      Link="">Gauge G2</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term14"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>GA</Term>
+    </Terms>
+    <Definition
+      Link="">Gauge GA</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term15"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>GB</Term>
+    </Terms>
+    <Definition
+      Link="">Gaguge GB</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term16"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>GC</Term>
+    </Terms>
+    <Definition
+      Link="">Gauge GC</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term17"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>DE3</Term>
+    </Terms>
+    <Definition
+      Link="">Kinematic Gauge for passenger rolling stock</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term18"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Definitions">
+    <Terms>
+      <Term>RIV</Term>
+    </Terms>
+    <Definition
+      Link="">Regolamento Internazionale Veicoli - agreement on the reciprocal use of freight wagons in international transport.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term19"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Definitions">
+    <Terms>
+      <Term>RIC</Term>
+    </Terms>
+    <Definition
+      Link="">Regolamento Internazionale delle Carrozze - the agreement governing the exchange and use of coaches.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term20"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Devinitions">
+    <Terms>
+      <Term>TEN</Term>
+    </Terms>
+    <Definition
+      Link="">Trans-European Network - marking on new wagons  (build since 2006) may appear alongside or additional markings indicating the vehicle gauge.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term21"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Definitions">
+    <Terms>
+      <Term>TEN GE</Term>
+    </Terms>
+    <Definition
+      Link="">For wagons meeting all the requirements of the Wagons TSI WAG, the pictogram GE is used in conjunction with characters 2 or 3 of the wagon number and the "TEN" marking.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term22"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Definitions">
+    <Terms>
+      <Term>TEN CW</Term>
+    </Terms>
+    <Definition
+      Link="">For wagons TSI WAG-compliant but which deviate in terms of their wheelbase or vehicle gauge, or which are subject to other operating restrictions when used in wagonload traffic. The marking used in conjunction with characters 4 or 8 of the wagon number, and the "TEN" marking.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term23"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Abbreviations">
+    <Terms>
+      <Term>TSI</Term>
+    </Terms>
+    <Definition
+      Link="">Technical Specifications for Interoperability</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term24"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
+    <Terms>
+      <Term>p</Term>
+    </Terms>
+    <Definition
+      Link="">Bogie wheelbase.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term25"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
+    <Terms>
+      <Term>a</Term>
+    </Terms>
+    <Definition
+      Link="">Distance between the end axles of vehicles not fitted with bogies or between the pivots of bogie wagons.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term26"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
+    <Terms>
+      <Term>ni</Term>
+    </Terms>
+    <Definition
+      Link="">Distance of the section, for sections located between the axles or bogie pivots.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term27"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
+    <Terms>
+      <Term>na</Term>
+    </Terms>
+    <Definition
+      Link="">Distance of the section for the sections located outside the axles or bogie pivots.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term28"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
+    <Terms>
+      <Term>q</Term>
+    </Terms>
+    <Definition
+      Link="">Lateral play between axle and bogie frame or between axle and vehicle body in the case of axle vehicles.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term29"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
+    <Terms>
+      <Term>w</Term>
+    </Terms>
+    <Definition
+      Link="">Lateral play between bogie and vehicle body.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term30"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
+    <Terms>
+      <Term>s</Term>
+    </Terms>
+    <Definition
+      Link="">Vehicle coefficient of flexilbility.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term31"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>CW</Term>
+    </Terms>
+    <Definition
+      Link="">Compatible With</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term32"
+    Stem=""
+    SortAs="Definitions"
+    IgnoreCase="false">
+    <Terms>
+      <Term>RID</Term>
+    </Terms>
+    <Definition
+      Link="">International Carriage of Dangerous Goods by Rail (RID).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term33"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>GCU</Term>
+    </Terms>
+    <Definition
+      Link="">General Contract of Use for Wagons</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term34"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>ATTI</Term>
+    </Terms>
+    <Definition
+      Link="">Agreement on Train Transfer Inspection</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term35"
+    Stem=""
+    SortAs="Definitions"
+    IgnoreCase="false">
+    <Terms>
+      <Term>standard gauge</Term>
+    </Terms>
+    <Definition
+      Link="">Track gauge 1435 mm.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Devinitions"
+    glossTerm="RailGlossary.Term36"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Broad gauges</Term>
+    </Terms>
+    <Definition
+      Link="">Track gauges  in mm: 1520, 1524 , 1600, 1668.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term37"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>EC</Term>
+    </Terms>
+    <Definition
+      Link="">Exceptional Consignment</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term38"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>HC</Term>
+    </Terms>
+    <Definition
+      Link="">HIgh Cube</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term39"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>DIUM</Term>
+    </Terms>
+    <Definition
+      Link="">Uniform Distance Table for International Freight Traffic</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term40"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>NHM</Term>
+    </Terms>
+    <Definition
+      Link="">Nomenclature harmonisée des marchandises - Harmonised Commodity Code</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term41"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>UIC</Term>
+    </Terms>
+    <Definition
+      Link="">(fr.)Union Internationale des Chemins de fer, (en.) International Union of Railways</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term42">
+    <Terms>
+      <Term>OPE</Term>
+    </Terms>
+    <Definition>Operation and Traffic Management Subsystem</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term43"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Definitions">
+    <Terms>
+      <Term>UIC Leaflet 502-1</Term>
+    </Terms>
+    <Definition
+      Link="">UIC code 502-1 (O - obligatory) -Exceptional consignments - Regulations concerning the preparation and management of exceptional consginments. The document in 2021 has been superseded by UIC IRS 50502.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term44">
+    <Terms>
+      <Term>ILUs</Term>
+    </Terms>
+    <Definition>Intermodal Loading Units</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term46">
+    <Terms>
+      <Term>WCC</Term>
+    </Terms>
+    <Definition>Wagon Compatibility Code</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term47">
+    <Terms>
+      <Term>WCD</Term>
+    </Terms>
+    <Definition>Wagon Correction Digit</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term48">
+    <Terms>
+      <Term>CTP</Term>
+    </Terms>
+    <Definition>Combined Transport Profiles (of lines)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term45">
+    <Terms>
+      <Term>COG</Term>
+    </Terms>
+    <Definition>Centre Of Gravity</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term49">
+    <Terms>
+      <Term>ERA</Term>
+    </Terms>
+    <Definition>European Union Agency for Railways</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term50">
+    <Terms>
+      <Term>CIM</Term>
+    </Terms>
+    <Definition>Uniform Rules concerning the Contract of International Carriage of Goods by Rail (Appendix B to COTIF)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term51">
+    <Terms>
+      <Term>SMGS</Term>
+    </Terms>
+    <Definition>Agreement on International Freight Traffic by Rail</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviation"
+    glossTerm="RailGlossary.Term52">
+    <Terms>
+      <Term>OSJD</Term>
+    </Terms>
+    <Definition>(EN) Organization for Cooperation of Railways, (RU) Организация Сотрудничества Железных Дорог –  ОСЖД</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abberviations"
+    glossTerm="RailGlossary.Term53">
+    <Terms>
+      <Term>RICS</Term>
+    </Terms>
+    <Definition>Railway Interchange Coding System</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term54">
+    <Terms>
+      <Term>ECM</Term>
+    </Terms>
+    <Definition>Entity in Charge of Maintenance</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

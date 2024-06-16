@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/TableStyles/Basic-one.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>Transhipment to different track gauges</h1>
+        <h2>Definition</h2>
+        <p>Load units to be transhipped if they weigh more than 25 tonnes or are loaded on low-loader wagons (only applies to  transhipment to railways with different track gauges).</p>
+        <h2>Reasons for exceptional transport conditions</h2>
+        <p>This rule for exceptional consignments applies when a shipment is transferred between <MadCap:glossaryTerm glossTerm="RailGlossary.Term36">broader gauges</MadCap:glossaryTerm>, tracks such as:</p>
+        <ul>
+            <li>Iberian Gauge: 1668 mm (Spain and Portugal)</li>
+            <li>Russian Gauge: 1520 mm (countries of the former Soviet Union) inclusive of Estonia (old tracks), Latvia, Lithuania, Moldova and Ukraine</li>
+        </ul>
+        <p>and <MadCap:glossaryTerm glossTerm="RailGlossary.Term35">standard gauge</MadCap:glossaryTerm> 1435 mm (the majority of continental Europe).</p>
+        <p>Three reasons why the transhipment of goods heavier than 25 tonnes is exceptional:</p>
+        <ol>
+            <li><strong>Vehicle  characteristics</strong> – standard gauge wagons have different geometrical characteristic than broad gauge wagons. Therefore, they cannot simply change the tractive unit and continue on the standard tracks. Broad gauge  (1520 mm) wagons use different coupling and braking systems than standard gauge wagons. In order for broad gauge wagons to enter standard gauge track, they would have to have their wheelset spacing adjusted to 1435 mm. In most cases broad gauge wagons do not have systems for an automatic wheelset spacing change. In addition, they are  too big to enter the standard gauge network. Load transhipment onto standard track wagons is therefore the preferred option.</li>
+            <li><strong>Loading gauge restriction</strong> – goods loaded on broad gauge wagons might be a normal consignment on broad gauge rail network. After transhipment onto standard wagons and while on a standard track rail network they may become out of gauge loads. For example, loaded ISO&#160;High Cube containers while transported on standard gauge wagons they become out of gauge exceptional consignments.</li>
+            <li><strong>Complexity of transhipment</strong> – arising from two main factors:<ul><li>The diverse range of load types weighing over 25 tonnes, combined with various transhipment technologies. </li><li>The varying quality of transhipment facilities and differences in transport regulations contribute to the overall complexity of the operation of transhipment from wagon to wagon.</li></ul></li>
+        </ol>
+        <h2>Consignment Application</h2>
+        <table style="width: 100%;mc-table-style: url('../Resources/TableStyles/Basic-one.css');margin-left: auto;margin-right: auto;" class="TableStyle-Basic-one" cellspacing="2">
+            <col style="width: 93px;" class="TableStyle-Basic-one-Column-Column3" MadCap:pattern="7" />
+            <col class="TableStyle-Basic-one-Column-Column4" MadCap:pattern="8" />
+            <thead>
+                <tr class="TableStyle-Basic-one-Head-Header1">
+                    <th class="TableStyle-Basic-one-HeadE-Column3-Header1">
+                        <p class="table-text">Code</p>
+                    </th>
+                    <th class="TableStyle-Basic-one-HeadD-Column4-Header1">
+                        <p class="table-text">Declare in application </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">
+                        <p>#12–15</p>
+                    </td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Critical points for out-of-gaugue (optional), for #13 specify if the height is measured from top of the rail (13a) or solely for the good itself (13b).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">
+                        <p>#19</p>
+                    </td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Centre of gravity location declaration.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">
+                        <p>#22</p>
+                    </td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Transhipment destination station (and further on XXXX mm tracks to final destination).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">
+                        <p>#23</p>
+                    </td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Specify the track gauge that the train will run on within the border area.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">
+                        <p>#25</p>
+                    </td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Customs station (only when customs are dealt with neither at the frontier station nor the destination station).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyE-Column3-Body1">
+                        <p>#27</p>
+                    </td>
+                    <td class="TableStyle-Basic-one-BodyD-Column4-Body1">
+                        <p>Freight payer at the transhipment station.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-one-Body-Body1">
+                    <td class="TableStyle-Basic-one-BodyB-Column3-Body1">#29</td>
+                    <td class="TableStyle-Basic-one-BodyA-Column4-Body1">
+                        <p>For loads in low-loader wagons, consignments may not be subject to hump or fly shunting, nor may they collide with other vehicles that have been fly or hump shunted.
+<br />Trains including these transport units may not be pushed.
+<br />Wagon groups must not be separated.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
