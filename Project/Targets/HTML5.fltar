@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
@@ -10,10 +10,21 @@
   ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] "
   ShowMadCapBacklink="true"
   MasterToc="/Project/TOCs/Online.fltoc"
-  ResolveCssVariables="true">
+  ResolveCssVariables="true"
+  GetLatestBeforeCompile="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  BrandingStylesheet="/Content/Resources/Branding/Branding.css"
+  MasterStylesheetOverride="true"
+  OutputFile="index.html">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/EC-Application-Guide_1.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
 </CatapultTarget>

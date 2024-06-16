@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Dyplom\EC-Application-Guide_1.0\EC-Application-Guide_1.0"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="file:///C:/Dyplom/EC-Application-Guide_1.0/EC-Application-Guide_1.0/.git/"
+  DatabaseRoot="file:///C:/Dyplom/EC-Application-Guide_1.0/EC-Application-Guide_1.0"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>
