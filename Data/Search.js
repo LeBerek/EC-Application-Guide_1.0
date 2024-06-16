@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Application Fast Track/Conditions.htm'],s:['+','form','some'],p:[['+',23],['are',21],['constrictions',11],['for',9],['it',20],['of',17],['requires',27],['the',10],['walls',11]]});
